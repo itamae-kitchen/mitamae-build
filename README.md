@@ -1,6 +1,6 @@
 # mitamae-sparc
 
-mitamae binary distribution for SPARC architecture
+[mitamae](https://github.com/itamae-kitchen/mitamae) binary distribution for SPARC architecture
 
 Version: 1.11.0
 
