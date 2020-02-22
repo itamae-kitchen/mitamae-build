@@ -6,7 +6,7 @@ Version: 1.11.0
 
 ## Usage
 
-```bash
+```
 wget https://github.com/itamae-kitchen/mitamae-sparc/releases/latest/download/mitamae-sparc-solaris
 chmod +x mitamae-sparc-solaris
 ./mitamae-sparc-solaris help
