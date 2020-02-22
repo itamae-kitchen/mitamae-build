@@ -9,6 +9,8 @@ TBD
 ## Note
 
 The service level of this repository is low.
-There's no well-maintained environment to automatically build mitamae binary for SPARC.
 
-Do not expect to have a binary distribution for future mitamae versions.
+* The released binaries are manually built on SPARC servers.
+  There's no well-maintained environment to automatically build mitamae binary for SPARC.
+
+* Do not expect frequent releases for future mitamae versions.
