@@ -1,6 +1,6 @@
-# mitamae-sparc
+# mitamae-solaris
 
-[mitamae](https://github.com/itamae-kitchen/mitamae) binary distribution for SPARC architecture
+[mitamae](https://github.com/itamae-kitchen/mitamae) binary distribution for Solaris OS
 
 Version: 1.11.0
 
@@ -14,8 +14,8 @@ chmod +x mitamae-x86_64-solaris
 
 ## Caveats
 
-* The released binaries are manually built on SPARC servers.
-  There's no well-maintained environment to automatically build mitamae binary for SPARC.
+* The released binaries are manually built on Solaris servers.
+  There's no well-maintained environment to automatically build mitamae binary for Solaris.
 
 * This repository's service level is low.
   Do not expect frequent releases for future mitamae versions.
