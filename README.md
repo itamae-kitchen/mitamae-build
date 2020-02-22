@@ -2,9 +2,9 @@
 
 mitamae binary distribution for SPARC architecture
 
-## Usage
+## Version
 
-TBD
+v1.11.0
 
 ## Description
 
@@ -13,3 +13,7 @@ TBD
 
 * This repository's service level is low.
   Do not expect frequent releases for future mitamae versions.
+
+## Usage
+
+TBD
