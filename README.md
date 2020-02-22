@@ -7,13 +7,13 @@ Version: 1.11.0
 ## Usage
 
 ```
-wget https://github.com/itamae-kitchen/mitamae-sparc/releases/latest/download/mitamae-sparc-solaris
+wget https://github.com/itamae-kitchen/mitamae-solaris/releases/latest/download/mitamae-sparc-solaris
 chmod +x mitamae-sparc-solaris
 ./mitamae-sparc-solaris help
 ```
 
 ```
-wget https://github.com/itamae-kitchen/mitamae-sparc/releases/latest/download/mitamae-x86_64-solaris
+wget https://github.com/itamae-kitchen/mitamae-solaris/releases/latest/download/mitamae-x86_64-solaris
 chmod +x mitamae-x86_64-solaris
 ./mitamae-x86_64-solaris help
 ```
