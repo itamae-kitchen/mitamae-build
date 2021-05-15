@@ -32,7 +32,7 @@ git clone https://github.com/itamae-kitchen/mitamae /tmp/mitamae
 cd /tmp/mitamae
 git checkout vX.Y.Z
 rake compile
-# Upload `mruby/build/host/bin/mitamae` to GitHub
+# Upload `mruby/build/host/bin/mitamae` to GitHub as `mitamae-${arch}-${os}`
 ```
 
 ## Caveats
