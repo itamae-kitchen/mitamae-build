@@ -1,6 +1,6 @@
-# mitamae-solaris
+# mitamae-build
 
-[mitamae](https://github.com/itamae-kitchen/mitamae) binary distribution for Solaris OS
+[mitamae](https://github.com/itamae-kitchen/mitamae) binary distribution for various environments.
 
 Version: 1.11.0
 
