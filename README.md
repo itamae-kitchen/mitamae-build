@@ -2,7 +2,7 @@
 
 [mitamae](https://github.com/itamae-kitchen/mitamae) binary distribution for various environments.
 
-Version: 1.12.4
+Version: 1.12.6
 
 ## Usage
 
@@ -19,7 +19,8 @@ chmod +x "$mitamae"
 ## Release
 ### Servers
 
-* 140.211.168.162 (ppc64le-linux)
+* ppc64le.rubyci.org (ppc64le-linux)
+* s390x.rubyci.org (s390x-linux)
 * freebsd12.rubyci.org (x86\_64-freebsd)
 * openbsd.rubyci.org (x86\_64-openbsd)
 * solaris.rubyci.org
