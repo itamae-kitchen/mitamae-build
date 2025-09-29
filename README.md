@@ -2,7 +2,7 @@
 
 [mitamae](https://github.com/itamae-kitchen/mitamae) binary distribution for various environments.
 
-Version: 1.12.6
+Version: 1.14.4
 
 ## Usage
 
@@ -33,8 +33,16 @@ git clone https://github.com/itamae-kitchen/mitamae /tmp/mitamae
 cd /tmp/mitamae
 git checkout vX.Y.Z
 rake compile
-# Upload `mruby/build/host/bin/mitamae` to GitHub as `mitamae-${arch}-${os}`
 ```
+
+or for OpenBSD
+
+```bash
+ln -s /usr/local/bin/egcc /usr/local/bin/gcc # for muruby-yaml
+AUTOCONF_VERSION=2.69 AUTOMAKE_VERSION=1.12 rake compile
+```
+
+Upload `mruby/build/host/bin/mitamae` to GitHub as `mitamae-${arch}-${os}` after building binaries on each server.
 
 ## Caveats
 
