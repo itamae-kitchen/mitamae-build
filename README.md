@@ -38,7 +38,7 @@ rake compile
 or for OpenBSD
 
 ```bash
-ln -s /usr/local/bin/egcc /usr/local/bin/gcc # for muruby-yaml
+ln -s /usr/local/bin/egcc /usr/local/bin/gcc # for mruby-yaml
 AUTOCONF_VERSION=2.69 AUTOMAKE_VERSION=1.12 rake compile
 ```
 
