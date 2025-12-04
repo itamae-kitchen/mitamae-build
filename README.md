@@ -22,11 +22,23 @@ chmod +x "$mitamae"
 * ppc64le.rubyci.org (ppc64le-linux)
 * s390x.rubyci.org (s390x-linux)
 * freebsd12.rubyci.org (x86\_64-freebsd)
+* freebsd15-arm.rubyci.org (arm64-freebsd)
 * openbsd.rubyci.org (x86\_64-openbsd)
 * solaris.rubyci.org
   * sol10 (sparc-solaris)
 
 ### Build
+
+Required packages:
+
+```
+ruby
+rake
+autoconf
+automake
+libtool
+gcc
+```
 
 ```bash
 git clone https://github.com/itamae-kitchen/mitamae /tmp/mitamae
